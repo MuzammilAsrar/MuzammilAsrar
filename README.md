@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muzammil Asrar</h1>
-<h3 align="center">A passionate Business Analyst/Data Analyst</h3>
+<h3 align="center">A passionate Project Manager|SCRUM MASTER</h3>
 <img align="right" alt="Analyst" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
 
@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Data Analyst/Business Analyst**
 
-- 💬 Ask me about **How Data Talks**
+- 💬 Ask me about **How Manage Projects**
 
 - 📫 How to reach me **muzammilasrar132@gmail.com**
 
-- ⚡ Fun fact **I Have Eyes**
+- ⚡ Fun fact **I Have an Eyes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
